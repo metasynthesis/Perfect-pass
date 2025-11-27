@@ -1,11 +1,5 @@
 ---
-title: My GitHub Pages Notebook!
+title: Perfect Pass
 ---
 
-Hello world!
-
-Write some words here!
-
-Welcome!!
-
-Another edit?
+Eternal work in progress, check back later
