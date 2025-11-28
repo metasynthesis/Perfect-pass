@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/0_MANIFEST/Thought logs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Thought logs"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/0_MANIFEST/Thought logs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Thought logs"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/0_MANIFEST/Thought logs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from Thought logs"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/0_MANIFEST/Thought logs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Thought logs"
             }
           }
         ]
@@ -187,13 +187,14 @@
   "active": "f193adea8997ce3a",
   "lastOpenFiles": [
     "source/content/0_MANIFEST/index.md",
+    "source/content/0_MANIFEST/Thought logs.md",
+    "source/content/Primitives/index.md",
+    "source/content/Primitives/Nature.md",
+    "source/content/index.md",
     "source/content/2_CANON",
     "source/content/1_CORE THEORY",
-    "source/content/Primitives/index.md",
-    "source/content/index.md",
     "source/content/0_MANIFEST",
     "source/content/Brainstorm word dump/index.md",
-    "source/content/Primitives/Nature.md",
     "source/content/Brainstorm word dump",
     "source/content/Primitives",
     "source/content/category-folder/Some note.md",
