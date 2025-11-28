@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Primitives/Nature.md",
+                "file": "source/content/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nature"
+              "title": "index"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/Primitives/Nature.md",
+                "file": "source/content/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Nature"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/Primitives/Nature.md",
+                "file": "source/content/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Nature"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/Primitives/Nature.md",
+                "file": "source/content/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Nature"
+              "title": "Outline of index"
             }
           }
         ]
@@ -186,9 +186,15 @@
   },
   "active": "f193adea8997ce3a",
   "lastOpenFiles": [
-    "source/content/index.md",
-    "source/content/Primitives/Nature.md",
+    "source/content/0_MANIFEST/index.md",
+    "source/content/2_CANON",
+    "source/content/1_CORE THEORY",
     "source/content/Primitives/index.md",
+    "source/content/index.md",
+    "source/content/0_MANIFEST",
+    "source/content/Brainstorm word dump/index.md",
+    "source/content/Primitives/Nature.md",
+    "source/content/Brainstorm word dump",
     "source/content/Primitives",
     "source/content/category-folder/Some note.md",
     "source/content/category-folder/index.md",
