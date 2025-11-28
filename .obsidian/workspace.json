@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/0_MANIFEST/Thought logs.md",
+                "file": "source/content/9_UNSORTED/Thought logs.md",
                 "mode": "source",
                 "source": false
               },
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/content/0_MANIFEST/Thought logs.md",
+                "file": "source/content/9_UNSORTED/Thought logs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "source/content/0_MANIFEST/Thought logs.md",
+                "file": "source/content/9_UNSORTED/Thought logs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "source/content/0_MANIFEST/Thought logs.md",
+                "file": "source/content/9_UNSORTED/Thought logs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -184,23 +184,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f193adea8997ce3a",
+  "active": "9de14cd7545e20ff",
   "lastOpenFiles": [
+    "source/content/4_APPLICATION DOMAINS/Spirituality & Ritual Design.md",
+    "source/content/9_UNSORTED",
+    "source/content/4_APPLICATION DOMAINS/Education & Curriculum Design.md",
+    "source/content/4_APPLICATION DOMAINS/Game Design & Interactive Experiences.md",
+    "source/content/4_APPLICATION DOMAINS/Fiction & World-Building.md",
+    "source/content/4_APPLICATION DOMAINS/Psychotherapy & shadow integration.md",
+    "source/content/3_BOOKS/Love & War.md",
+    "source/content/4_APPLICATION DOMAINS/Organisations & Leadership.md",
+    "source/content/4_APPLICATION DOMAINS/Personal development & coaching.md",
+    "source/content/4_APPLICATION DOMAINS/Politics, History & Civilisational Analysis.md",
+    "source/content/3_BOOKS/Faces of Man.md",
+    "source/content/2_CANON/Groupings.md",
+    "source/content/2_CANON/Singulars.md",
+    "source/content/1_CORE THEORY/Relationship to existing systems.md",
+    "source/content/1_CORE THEORY/Polarity.md",
+    "source/content/1_CORE THEORY/144 cell.md",
+    "source/content/1_CORE THEORY/Six axes.md",
+    "source/content/0_MANIFEST/Roadmap.md",
+    "source/content/4_APPLICATION DOMAINS/index.md",
+    "source/content/3_BOOKS/index.md",
+    "source/content/2_CANON/index.md",
+    "source/content/1_CORE THEORY/index.md",
     "source/content/0_MANIFEST/index.md",
-    "source/content/0_MANIFEST/Thought logs.md",
-    "source/content/Primitives/index.md",
-    "source/content/Primitives/Nature.md",
     "source/content/index.md",
+    "source/content/9_UNSORTED/Thought logs.md",
+    "source/content/2_CANON/Primitives",
+    "source/content/5_TOOLS",
+    "source/content/4_APPLICATION DOMAINS",
+    "source/content/3_BOOKS",
+    "source/content/Primitives/index.md",
     "source/content/2_CANON",
     "source/content/1_CORE THEORY",
     "source/content/0_MANIFEST",
-    "source/content/Brainstorm word dump/index.md",
     "source/content/Brainstorm word dump",
-    "source/content/Primitives",
-    "source/content/category-folder/Some note.md",
-    "source/content/category-folder/index.md",
-    "README.md",
-    "source/README.md",
-    "source/CODE_OF_CONDUCT.md"
+    "source/content/Primitives"
   ]
 }
